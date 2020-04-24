@@ -1,0 +1,2 @@
+rootProject.name='Mouse Maze'
+include ':app'

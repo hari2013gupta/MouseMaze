@@ -1,0 +1,371 @@
+    <LinearLayout 
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:background="@drawable/bg_main"
+        android:orientation="vertical" >
+
+        <LinearLayout 
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+        </LinearLayout>
+
+	<ScrollView
+        android:id="@+id/scrollv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+	android:scrollbars="none"
+>
+    <LinearLayout 
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:id="@+id/lnr_btn_set1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        >
+
+        <Button
+            android:id="@+id/btn_diff1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+       
+        <Button
+            android:id="@+id/btn_diff2"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+
+        <Button
+            android:id="@+id/btn_diff3"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+</LinearLayout>
+    <LinearLayout 
+        android:id="@+id/lnr_btn_set2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        >
+    
+        <Button
+            android:id="@+id/btn_diff4"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+
+        <Button
+            android:id="@+id/btn_diff5"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+        
+        <Button
+            android:id="@+id/btn_diff6"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+        
+        </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/lnr_btn_set3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        >
+       
+        <Button
+            android:id="@+id/btn_diff7"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+
+        <Button
+            android:id="@+id/btn_diff8"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+
+        <Button
+            android:id="@+id/btn_diff9"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+        
+        </LinearLayout>
+        
+    <LinearLayout 
+        android:id="@+id/lnr_btn_set4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        >
+            
+        <Button
+            android:id="@+id/btn_diff10"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+                
+        <Button
+            android:id="@+id/btn_diff11"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+                
+        <Button
+            android:id="@+id/btn_diff12"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+        
+        </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/lnr_btn_set5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        >
+            
+        <Button
+            android:id="@+id/btn_diff13"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+                
+        <Button
+            android:id="@+id/btn_diff14"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+                
+        <Button
+            android:id="@+id/btn_diff15"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+        
+        </LinearLayout>
+    
+     <LinearLayout 
+        android:id="@+id/lnr_btn_set6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        >
+            
+        <Button
+            android:id="@+id/btn_diff16"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+                
+        <Button
+            android:id="@+id/btn_diff17"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+                
+        <Button
+            android:id="@+id/btn_diff18"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+        
+        </LinearLayout>
+    
+        <LinearLayout 
+        android:id="@+id/lnr_btn_set7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        >
+            
+        <Button
+            android:id="@+id/btn_diff19"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+                
+        <Button
+            android:id="@+id/btn_diff20"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            />
+                
+        <Button
+            android:id="@+id/btn_diff21"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_level20"
+            android:text="21L"
+            android:visibility="gone"
+            />
+        
+        </LinearLayout>
+    
+        <LinearLayout 
+        android:id="@+id/lnr_btn_set8"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        android:visibility="gone"
+        >
+            
+        <Button
+            android:id="@+id/btn_diff22"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_level"
+            android:text="22L"
+            />
+                
+        <Button
+            android:id="@+id/btn_diff23"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_level"
+            android:text="23L"
+            />
+                
+        <Button
+            android:id="@+id/btn_diff24"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_level"
+            android:text="24L"
+            />
+        
+        </LinearLayout>
+    
+        <LinearLayout 
+        android:id="@+id/lnr_btn_set9"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        android:visibility="gone"
+        >
+            
+        <Button
+            android:id="@+id/btn_diff25"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_level"
+            android:text="25L"
+            />
+                
+        <Button
+            android:id="@+id/btn_diff26"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_level"
+            android:text="26L"
+            />
+                
+        <Button
+            android:id="@+id/btn_diff27"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_level"
+            android:text="27L"
+            />
+        
+        </LinearLayout>
+    
+        <LinearLayout 
+        android:id="@+id/lnr_btn_set10"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        android:visibility="gone"
+        >
+            
+        <Button
+            android:id="@+id/btn_diff28"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_level"
+            android:text="28L"
+            />
+                
+        <Button
+            android:id="@+id/btn_diff29"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_level"
+            android:text="29L"
+            />
+                
+        <Button
+            android:id="@+id/btn_diff30"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_level"
+            android:text="30L"
+            />
+        
+        </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/lnr_btn_set11"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+        
+        </LinearLayout>
+        </LinearLayout>
+	</ScrollView>
+	    <LinearLayout 
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+        </LinearLayout>
+
+</LinearLayout>
