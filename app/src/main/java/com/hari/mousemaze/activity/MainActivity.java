@@ -222,7 +222,7 @@ public class MainActivity extends Activity {
         builder1.setPositiveButton("Yes",
                 new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
-        		getURL="https://play.google.com/store/apps/details?id=com.appsd.mousemaze";
+        		getURL="https://play.google.com/store/apps/details?id=com.hari.mousemaze";
 //        		Intent intent=new Intent(getApplicationContext(), getURL);
 //    			startActivity(intent);  
 
@@ -310,8 +310,9 @@ public class MainActivity extends Activity {
 /////////////////////////////end_exit=onBackpressed
 	 @Override
 	 public void onBackPressed() {
+		super.onBackPressed();
 //		 AlertCustom();
-			showAlert("Dear Users, If you like our App please give us Rating of 5 stars.");
+//			showAlert("Dear Users, If you like our App please give us Rating of 5 stars.");
 //			int backButtonCount = 0;
 //			if(backButtonCount >= 1)
 //		    {
